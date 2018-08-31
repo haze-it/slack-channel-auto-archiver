@@ -1,0 +1,16 @@
+{
+  "error": {
+    "fetch_ignore_list": "Fetch Ignore List ERROR.",
+    "fetch_channels_list": "Fetch Channels List ERROR.",
+    "narrow_down_list": "Narrow Down List ERROR.",
+    "announcement_and_archive": "Announcement And Archive ERROR.",
+    "archive_channels_list": "Archive Channels List ERROR.",
+    "channel_list_archive": "Channel List Archive ERROR.",
+    "default": "'ERROR. Look at the Logs.'"
+  },
+  "info": {
+    "dry_run": "Dry Run. If you want to run in production, please set arguments.",
+    "success": "Channel archive succeeded. Please check the log."
+  },
+  "archive_message": "Archive This Channel. Because it is not use. :knife:"
+}
