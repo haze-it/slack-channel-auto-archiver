@@ -1,13 +1,10 @@
 {
   "name": "slack-channel-archiver",
   "description": "Unused channel absolute killing man",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "haze-it <haze.it.acc@gmail.com>",
   "dependencies": {
     "request": "^2.83.0",
     "googleapis": "27"
-  },
-  "devDependencies": {
-    "eslint-config-google": "^0.9.1"
   }
 }
